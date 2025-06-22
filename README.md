@@ -19,7 +19,8 @@ source env/bin/activate
 python main.py --keywords ergo proxy
 ```
 
-!(ergo)[https://pixelll.is-a.dev/static/screenshots/ergo_000.webp]
-!(ergo)[https://pixelll.is-a.dev/static/screenshots/ergo_00.webp]
-!(ergo)[https://pixelll.is-a.dev/static/screenshots/ergo_0.webp]
+[ergo](https://pixelll.is-a.dev/static/screenshots/ergo_000.webp)
+[ergo](https://pixelll.is-a.dev/static/screenshots/ergo_00.webp)
+[ergo](https://pixelll.is-a.dev/static/screenshots/ergo_0.webp)
+
 
